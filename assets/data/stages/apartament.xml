@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="apartament" folder="stages/apartament/">
+
+	<sprite name="pared"               x="-230" y="-190"   sprite="pared"       scroll="0.9" />
+	<sprite name="piso"               x="-300" y="450"   sprite="piso"       scroll="0.9" />
+	<sprite name="ventana"               x="50" y="0"   sprite="ventana"     scroll="0.9" />
+	<sprite name="mesa"               x="0" y="230"   sprite="mesa_con_comida"     scroll="0.9" />
+	<sprite name="sofa"               x="500" y="0"   sprite="sofa"     scroll="0.9" />
+	<sprite name="refrigerador"               x="1300" y="-150"   sprite="refrigerador"     scroll="0.9" />
+
+	<dad y="-20" x="-50"/>
+	<girlfriend x="1000000" />
+	<boyfriend y="-20"/>
+</stage>

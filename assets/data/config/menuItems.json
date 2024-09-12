@@ -1,0 +1,40 @@
+{
+	"objects": [
+		{	
+			"tag":"story_mode",
+			"id":0,
+			"x": 0.0,
+			"y": 0.0,
+			"scaleX": 2.0,
+			"scaleY": 1.0,
+			"screenCenter": "X"
+		},
+		{	
+			"tag":"credits",
+			"id":1,
+			"x": 0.0,
+			"y": 0.0,
+			"scaleX": 1.0,
+			"scaleY": 1.0,
+			"screenCenter": "X"
+		},
+		{	
+			"tag":"options",
+			"id":2,
+			"x": 0.0,
+			"y": 0.0,
+			"scaleX": 1.0,
+			"scaleY": 1.0,
+			"screenCenter": "X"
+		},
+		{	
+			"tag":"merch",
+			"id":3,
+			"x": 0.0,
+			"y": 0.0,
+			"scaleX": 1.0,
+			"scaleY": 1.0,
+			"screenCenter": "X"
+		}
+	]
+}

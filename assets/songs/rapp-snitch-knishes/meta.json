@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 166,
+	"difficulties": [
+		"Normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "rapp-snitch-knishes",
+	"icon": "mfdoom",
+	"name": "rapp-snitch-knishes",
+	"color": "#FFFFFF",
+	"customValues": {}
+}

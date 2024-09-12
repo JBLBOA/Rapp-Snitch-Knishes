@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="mrfan" y="0" isGF="false" flipX="true" isPlayer="false" sprite="mrfan">
+	<anim x="-5" loop="false" y="0" fps="24" anim="idl instancia" name="idle"/>
+	<anim x="6" loop="false" y="-13" fps="24" anim="u instancia" name="singUP"/>
+	<anim x="136" loop="false" y="-31" fps="24" anim="RI instancia" name="singLEFT"/>
+	<anim x="-33" loop="false" y="118" fps="24" anim="lef instancia" name="singRIGHT"/>
+	<anim x="86" loop="false" y="-235" fps="24" anim="dow instancia" name="singDOWN"/>
+</character>
